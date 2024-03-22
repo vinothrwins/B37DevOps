@@ -14,6 +14,7 @@ import org.testng.annotations.Test;
 
 public class RegisterDemoFlow {
 
+	// Code is added by Anand - 22/03/2024
 	public WebDriver driver;
 
 	// Parameterize all the Input Values
