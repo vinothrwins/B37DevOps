@@ -12,6 +12,8 @@ import org.openqa.selenium.support.ui.Select;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
+// New code is added by Anand- 08/06/2024
+
 public class RegisterDemoFlow {
 
 	// Code is added by Anand - 22/03/2024
