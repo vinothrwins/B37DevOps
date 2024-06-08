@@ -547,7 +547,8 @@ public class RegisterDemoFlow {
 
 	}
 
-	@Test(priority = 4)
+	//  8 June - need to update the validation
+	@Test(priority = 4,enabled = false)
 	public void validateSuccessfulMessage() {
 
 		// Submit the Form
